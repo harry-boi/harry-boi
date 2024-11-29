@@ -2,7 +2,7 @@
 
 # 👨‍💻 Harry's Developer Journey 🚀
 
-Hey there! I'm Harry, a passionate **Web3 & Web2 Developer** with a knack for building cool decentralized applications on the blockchain 🌐 and crafting robust backends. I craft amazing solutions for both Web2 & Web3 Ecosystems. I love diving into Solidity for smart contracts, experimenting with React.js for modern web apps, and getting my hands dirty with PHP Laravel 🛠️. Based on software requirements, I sometimes swap Laravel for Nodejs, and ReactJs for Alpine, & Livewire. 😎😎
+Hey there! I'm Harry, a passionate **Web3 Developer** who seamlessly transitioned from **Web2**. I specialize in building innovative decentralized applications on the blockchain 🌐 and creating robust backends. I thrive in crafting impactful solutions for both Web2 and Web3 ecosystems. My expertise includes writing smart contracts in Solidity, developing modern web apps with React.js, and building powerful backends with PHP Laravel 🛠️. Depending on the project requirements, I also work with Node.js, ExpressJs, Alpine.js, and Livewire. 😎😎
 
 ### 🔧 Tech Stack & Skills
 
