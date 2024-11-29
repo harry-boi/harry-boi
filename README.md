@@ -26,7 +26,7 @@ I'm always excited about exploring new technologies, and recently I've been divi
 - **React Components** 🛠️
 - **Writing tests with Foundry** 🧪
 - **Advanced Solidity Patterns** ⚡
-- **Blockchain RPC Aggregator by Chainlink instead of Infura and Alchemy** 🌐
+- **Simple Blockchain RPC Aggregator by Chainlist** 🌐
 
 ### 🎯 Currently Working On
 - Building a **Decentralized Patient Medical Record System** on Ethereum blockchain for transparent and secure lookup of patients health records 🏡.
